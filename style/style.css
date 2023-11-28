@@ -4,16 +4,16 @@
 }
 
 #top > h3 {
-  font-family: Tajawal;
-  height: 25px;
-  /* margin: auto; */
-  background-color: rgb(75, 157, 228)
-  font-size: 15px;
-  text-align: center;
-  color: rgb(42, 8, 8);
-  padding-top: 12px;
-  color: aliceblue;
-  margin-top: 0px;
+    font-family: Tajawal;
+    height: 25px;
+    /* margin: auto; */
+    background-color: rgb(75, 157, 228);
+    font-size: 15px;
+    text-align: center;
+    color: rgb(42, 8, 8);
+    padding-top: 12px;
+    color: aliceblue;
+    margin-top: 0px;
 }
 #topnavbar > img {
   height: 70px;
