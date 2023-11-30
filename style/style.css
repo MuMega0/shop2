@@ -6,7 +6,7 @@
 #top > h3 {
     font-family: Tajawal;
     height: 25px;
-    /* margin: auto; */
+    margin: auto;
     background-color: rgb(75, 157, 228);
     font-size: 15px;
     text-align: center;
@@ -30,6 +30,7 @@
   color: teal;
 }
 #topnavbar > input {
+  font-family: Tajawal;
   width: 50%;
   height: 30px;
   font-size: 13px;
@@ -48,6 +49,7 @@
 }
 
 #category > ul {
+  font-family: Tajawal;
   display: flex;
   width: 60%;
   margin: auto;
@@ -60,6 +62,7 @@
 }
 
 #category ul a {
+  font-family: Tajawal;
   display: block;
   color: rgb(96 92 92);
   text-decoration: none;
@@ -112,6 +115,7 @@
   text-decoration: underline;
 }
 #top > h2 {
+  font-family: Tajawal;
   /* font-size: 70px; */
   text-align: center;
   color: rgb(46, 43, 43);
@@ -141,6 +145,7 @@
   color: white;
 }
 #logo {
+  font-family: Tajawal;
   width: 30%;
   /* height: 100px; */
   text-align: center;
@@ -200,6 +205,7 @@
   border-radius: 100%;
 }
 #middle > h2 {
+  font-family: Tajawal;
   font-size: 20px;
   text-align: center;
   width: 80%;
@@ -230,6 +236,7 @@
 
 
 #Mbottom > div > h1 {
+  font-family: Tajawal;
   width: 70%;
   text-align: center;
   font-size: 11px;
@@ -237,6 +244,7 @@
   margin-bottom: 5px;
 }
 #Mbottom > div > p {
+  font-family: Tajawal;
   margin: auto;
   font-size: 10px;
   text-align: center;
@@ -252,6 +260,7 @@
   margin: auto;
 }
 #bottom > h1 {
+  font-family: Tajawal;
   font-size: 20px;
   text-align: center;
   color: rgb(109, 71, 66);
@@ -274,13 +283,16 @@
 }
 
 #parent > div > h2 {
+  font-family: Tajawal;
   font-size: 14px;
 }
 
 #parent > div > p {
+  font-family: Tajawal;
   font-size: 11px;
 }
 #bottom > h2 {
+  font-family: Tajawal;
   text-align: center;
   font-size: 16px;
   color: teal;
@@ -302,11 +314,13 @@
 
 
 #enddiv > h3 {
+  font-family: Tajawal;
   font-size: 15px;
   color: rgb(55, 93, 94);
 }
 
 #enddiv > p {
+  font-family: Tajawal;
   font-size: 11px;
   color: rgb(56, 38, 38);
 }
@@ -332,6 +346,7 @@
 }
 
 #bottomul > ul > li > ul > li {
+  font-family: Tajawal;
   list-style: none;
   font-size: 14px;
   text-align: left;
@@ -339,6 +354,7 @@
 }
 
 #bottomul > ul > li > h4 {
+  font-family: Tajawal;
   font-size: 14px;
   color: rgb(57, 56, 56);
 }
@@ -411,9 +427,11 @@
   border-radius: 10%;
 }
 #middlediv > div > h2 {
+  font-family: Tajawal;
   font-size: 12px;
 }
 #middlediv > div > p {
+  font-family: Tajawal;
   font-size: 10px;
 }
 
@@ -458,6 +476,7 @@
   }
 
   #bottomul > ul > li > ul > li {
+    font-family: Tajawal;
     list-style: none;
     font-size: 14px;
     text-align: left;
@@ -465,6 +484,7 @@
   }
 
   #bottomul > ul > li > h4 {
+    font-family: Tajawal;
     font-size: 14px;
     color: rgb(57, 56, 56);
   }
@@ -495,6 +515,7 @@
     height: 50px;
   }
   #topnavbar {
+    font-family: Tajawal;
     display: flex;
     text-align: center;
     /* width: 80%; */
@@ -505,6 +526,7 @@
     color: teal;
   }
   #topnavbar > input {
+    font-family: Tajawal;
     /* width: 30%; */
     height: 30px;
     font-size: 13px;
@@ -569,6 +591,7 @@
   }
 
   #bottomul > ul > li > ul > li {
+    font-family: Tajawal;
     list-style: none;
     font-size: 14px;
     text-align: left;
@@ -576,6 +599,7 @@
   }
 
   #bottomul > ul > li > h4 {
+    font-family: Tajawal;
     font-size: 14px;
     color: rgb(57, 56, 56);
   }
@@ -606,6 +630,7 @@
     height: 50px;
   }
   #topnavbar {
+    font-family: Tajawal;
     display: flex;
     text-align: center;
     /* width: 80%; */
@@ -616,6 +641,7 @@
     color: teal;
   }
   #topnavbar > input {
+    font-family: Tajawal;
     /* width: 30%; */
     height: 30px;
     font-size: 13px;
@@ -682,6 +708,7 @@
   }
 
   #bottomul > ul > li > ul > li {
+    font-family: Tajawal;
     list-style: none;
     font-size: 14px;
     text-align: left;
@@ -689,6 +716,7 @@
   }
 
   #bottomul > ul > li > h4 {
+    font-family: Tajawal;
     font-size: 14px;
     color: rgb(57, 56, 56);
   }
@@ -719,6 +747,7 @@
     height: 50px;
   }
   #topnavbar {
+    font-family: Tajawal;
     display: flex;
     text-align: center;
     /* width: 80%; */
@@ -729,6 +758,7 @@
     color: teal;
   }
   #topnavbar > input {
+    font-family: Tajawal;
     /* width: 30%; */
     height: 30px;
     font-size: 13px;
@@ -795,6 +825,7 @@
   }
 
   #bottomul > ul > li > ul > li {
+    font-family: Tajawal;
     list-style: none;
     font-size: 14px;
     text-align: left;
@@ -802,6 +833,7 @@
   }
 
   #bottomul > ul > li > h4 {
+    font-family: Tajawal;
     font-size: 14px;
     color: rgb(57, 56, 56);
   }
@@ -832,6 +864,7 @@
     height: 50px;
   }
   #topnavbar {
+    font-family: Tajawal;
     display: flex;
     text-align: center;
     /* width: 80%; */
@@ -842,6 +875,7 @@
     color: teal;
   }
   #topnavbar > input {
+    font-family: Tajawal;
     /* width: 30%; */
     height: 30px;
     font-size: 13px;
