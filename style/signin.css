@@ -1,5 +1,5 @@
 form {
-
+  font-family: Tajawal;
   justify-content: center;
   text-align: center;
   display: block;
@@ -12,6 +12,7 @@ form {
 }
 
 .container {
+  font-family: Tajawal;
   padding: 16px;
   display: block;
   /* width: 80%; */
@@ -24,15 +25,18 @@ form {
 }
 
 h1 {
+  font-family: Tajawal;
   font-size: 20px;
 
 }
 
 h2 {
+  font-family: Tajawal;
   font-size: 15px;
 }
 
 input {
+  font-family: Tajawal;
   padding: 10px;
   margin: 10px;
   /* border-radius: 20%; */
@@ -42,6 +46,7 @@ input {
 }
 
 #topnavbar {
+  font-family: Tajawal;
   display: flex;
   text-align: center;
   /* width: 80%; */
@@ -54,6 +59,7 @@ input {
 }
 
 #topnavbar>input {
+  font-family: Tajawal;
   width: 50%;
   height: 30px;
   font-size: 15px;
@@ -62,10 +68,12 @@ input {
 
 
 #top {
+  font-family: Tajawal;
   text-align: center;
 }
 
 #top>h3 {
+  font-family: Tajawal;
   height: 25px;
   margin: auto;
   background-color: rgb(75, 157, 228);
